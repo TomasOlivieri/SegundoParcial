@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1561674964 source:/home/alumno/TomasOlivieri/OlivieriTomas/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entidad.h"
+
+1561674958 /home/alumno/TomasOlivieri/OlivieriTomas/LinkedList.h
+
+1561676184 source:/home/alumno/TomasOlivieri/OlivieriTomas/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Parser.h"
+	"LinkedList.h"
+	"Entidad.h"
+
+1561676332 source:/home/alumno/TomasOlivieri/OlivieriTomas/validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1561672558 /home/alumno/TomasOlivieri/OlivieriTomas/validaciones.h
+
+1561676174 source:/home/alumno/TomasOlivieri/OlivieriTomas/Entidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Entidad.h"
+	"LinkedList.h"
+	"validaciones.h"
+
+1561672654 /home/alumno/TomasOlivieri/OlivieriTomas/Entidad.h
+
+1561675048 source:/home/alumno/TomasOlivieri/OlivieriTomas/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entidad.h"
+	"Parser.h"
+
+1561674625 /home/alumno/TomasOlivieri/OlivieriTomas/Parser.h
+	"LinkedList.h"
+
